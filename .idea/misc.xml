@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/activity_about.xml" value="0.14669843430905377" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/activity_answers_fragment.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/activity_questions_page.xml" value="0.22" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/activity_results.xml" value="0.2015625" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/fragment_question1.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/fragment_question2.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/fragment_question3.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/question1.xml" value="0.2" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/question2.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/question3.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/question4.xml" value="0.1885245901639344" />
+        <entry key="..\:/Android App Development/QuizApp/app/src/main/res/layout/question5.xml" value="0.1885245901639344" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

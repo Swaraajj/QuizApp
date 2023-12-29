@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="entername">Enter Name Here</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="devname">Swaraj Kumar</string>
+    <string name="email">swarajkumar175@gmail.com</string>
+    <string name="dev_dp">Dev DP</string>
+    <string name="back">Back</string>
+    <string name="your_score">Your Score:</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q2opt2">this</string>
+    <string name="q2opt3">catch</string>
+    <string name="q2opt4">abstract</string>
+    <string name="q2opt1">import</string>
+    <string name="q1opt1">finalize method</string>
+    <string name="q1opt2">main method</string>
+    <string name="q1opt3">static method</string>
+    <string name="q1opt4">private method</string>
+    <string name="q3op1">public</string>
+    <string name="q3opt2">protected</string>
+    <string name="q3opt3">private</string>
+    <string name="q3opt4">All of the mentioned</string>
+    <string name="q4opt1">Import pkg.</string>
+    <string name="q4opt2">import pkg.*</string>
+    <string name="q4opt3">Import pkg.*</string>
+    <string name="q4opt4">import pkg.</string>
+    <string name="q5opt1">int</string>
+    <string name="q5opt2">float</string>
+    <string name="q5opt3">void</string>
+    <string name="q5opt4">None of the mentioned</string>
+    <string name="restart">Restart</string>
+
+</resources>
